@@ -1,4 +1,4 @@
-<h1 align="center"><strong><span style="font-size:40px;">Hi 👋, I'm Balaji Patil</span></strong></h1>
+<h1 align="center"><strong><span style="font-size:50px;">Hi 👋, I'm Balaji Patil</span></strong></h1>
 
 <h3 align="center">🚀 Final Year Student | Data Science & Analytics Enthusiast | Lifelong Learner</h3>
 <p align="center">
