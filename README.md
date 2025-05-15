@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji Patil</h1>
 <h3 align="center">🚀 Final Year Student | Data Science & Analytics Enthusiast | Lifelong Learner</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Data+Science+%7C+ML+%7C+AI;Final+Year+Student+💻;Loves+Clean+Data+%26+Visualizations;Turning+data+into+insightful+stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Final+Year+Engineering+Student;Data+Science+%26+Analytics+Enthusiast;Passionate+about+ML+%7C+AI+%7C+NLP;Loves+solving+real+world+problems" alt="Typing SVG" />
 </p>
 
 
