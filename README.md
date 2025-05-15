@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Final Year Student | Data Science & Analytics Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=550&lines=Final+Year+Student+in+Data+Science;Exploring+Machine+Learning+and+AI;Transforming+Data+into+Decisions;Lifelong+Learner+%7C+Code+%26+Curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5F9EA0&center=true&vCenter=true&width=550&lines=🚀+Final+Year+Student+%7C+Data+Science+%7C+Analytics;💡+Exploring+ML%2C+AI%2C+Deep+Learning%2C+NLP;📊+Turning+raw+data+into+valuable+insights;🛠️+Building+real-world+data-driven+projects;📚+Always+learning%2C+always+experimenting" alt="Typing SVG" />
 </p>
+
 
 
 ---
