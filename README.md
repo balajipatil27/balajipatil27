@@ -5,6 +5,18 @@
 </p>
 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/balajipatil2703/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="balajipatilstudy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://balajipatilportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 
 ---
@@ -102,17 +114,5 @@
 
 ---
 
-### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/balajipatil2703/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="balajipatilstudy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://balajipatilportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
