@@ -105,14 +105,14 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 **SmartAnalysis** | ML Visualizer with quiz system | Python, Flask, Bootstrap |
-| 📊 **EDA Web App** | Upload CSVs and get insights | Pandas, Seaborn |
-| 🗣️ **SmartLecture Bot** | NLP-based lecture summarizer | NLTK, Transformers |
-| 🧭 **Career Recommender** | Recommends jobs and skills | ML, Resume Parser |
+| 🧠 **SmartAnalysis** | ML Visualizer with quiz system and web scraper tool | Python, Flask, Bootstrap |
+| 🗣️ **SmartLecture Bot** | NLP-based lecture summarizer and question generator | NLTK, Transformers |
+| 🧠 **HR Dashboard** | PowerBI Dashboard for insights in the company based on gender,work mode | PowerBi, Dax Query,Excel |
 
 
 
 ---
 
+![Uploading github-contribution-grid-snake-dark.svg…]()
 
 
