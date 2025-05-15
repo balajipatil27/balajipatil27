@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/balajipatil2703/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
