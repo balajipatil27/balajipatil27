@@ -92,7 +92,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/balajipatil27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balajipatil27&theme=radical" alt="Pranav's Contributions"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balajipatil27&theme=radical" alt="Balaji's Contributions"/>
   </a>
    
 </p>
