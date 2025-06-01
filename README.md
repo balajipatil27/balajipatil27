@@ -91,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajipatil27&layout=compact&theme=tokyonight" height="180"/>
 </p>
 <p align="center">
-  <a href="https://github.com/PranavTyagi-3">
+  <a href="https://github.com/balajipatil27">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balajipatil27&theme=radical" alt="Pranav's Contributions"/>
   </a>
    
